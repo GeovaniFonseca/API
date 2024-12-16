@@ -8,7 +8,8 @@ app = Flask(__name__)
 
 
 
-# Classe de Serviço de Leilão
+# Classe função nova
+
 class AuctionService:
     def get_auction_data(self):
         auction_items = []

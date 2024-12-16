@@ -15,7 +15,7 @@ INFO:werkzeug: * Restarting with stat
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 355-771-693
 INFO:werkzeug:127.0.0.1 - - [11/Dec/2024 04:30:47] "GET /filtered_items HTTP/1.1" 200 -
-ERROR:root:Erro ao fazer requisição: Response ended prematurely
+ERROR:root:Erro ao fazer requisiï¿½ï¿½o: Response ended prematurely
 INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on all addresses (0.0.0.0)
  * Running on http://127.0.0.1:5000
@@ -50,7 +50,7 @@ INFO:werkzeug: * Restarting with stat
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 355-771-693
 INFO:werkzeug:127.0.0.1 - - [11/Dec/2024 05:20:02] "GET /priced_items HTTP/1.1" 200 -
-ERROR:root:Erro ao fazer requisição: Response ended prematurely
-ERROR:root:Erro ao fazer requisição: Response ended prematurely
+ERROR:root:Erro ao fazer requisiï¿½ï¿½o: Response ended prematurely
+ERROR:root:Erro ao fazer requisiï¿½ï¿½o: Response ended prematurely
 INFO:werkzeug:127.0.0.1 - - [11/Dec/2024 05:24:07] "GET /priced_items HTTP/1.1" 200 -
 INFO:werkzeug: * Detected change in 'c:\\Users\\geova\\Desktop\\API\\main2.py', reloading
